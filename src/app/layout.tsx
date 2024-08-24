@@ -1,7 +1,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import Header from './Header'
-import Footer from './Footer'
+import Header from './components/Header'
+import Footer from './components/Footer'
 
 export const metadata: Metadata = {
   title: 'Next.js13 Blog',
